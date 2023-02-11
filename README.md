@@ -1,7 +1,6 @@
 ##### Purpose of Project
 
-Detection of Pills from images and video. Below you can see the sample detected image.
-![](./images/sample-detection.jpg)
+Detection of Pills from images and video. 
 
 ##### Labeling Images 
 Images are labeled by [Open Labeling Tool](https://github.com/Cartucho/OpenLabeling).<br>
