@@ -14,24 +14,8 @@ Here is the python [script](https://github.com/yavuzKomecoglu/darknet/blob/maste
 * obj.names (class names)
 * yolov3.cfg (editing number of classes and filters)
 
-Since we have 1 class (Pill (turkish meaning: ilac)) our filter must be 18 according to formula.
 
 
-
-<p align="center">
-    <img width=50% height= 50% src="./images/formula.png">
-    <br>
-</p>
-
-
-
-![](./images/files.jpeg)
-
-##### Creating Google Drive Folder
-
-You need to create a folder shown in that [image](http://blog.ibanyez.info/download/B20190410T000000072.png). 
-
-[Click here for my Google Drive folder](https://drive.google.com/open?id=1sCZ6y5W_iXmiyh6Ejzfe0p_BIrpM_goP).
 
 ### References
 
